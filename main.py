@@ -12,9 +12,14 @@ def main():
     hh_api = HeadHunterAPI()
     hh_vacancies = hh_api.get_vacancies(search_query)
     vacancies_list = Vacancy.cast_to_object_list(hh_vacancies)
-    top_n = int(input("Введите количество вакансий для вывода в топ N: "))
     filter_words = input("Введите ключевые слова для фильтрации вакансий: ").split()
-    min_salary = int(input("Введите минимальную зарплату: "))
+    while True:
+        try:
+            top_n = int(input("Введите количество вакансий для вывода в топ N: "))
+            min_salary = int(input("Введите минимальную зарплату: "))
+            break  # Если ввод успешен, выход из цикла
+        except ValueError:
+            print("Ошибка: введено не число. Пожалуйста, введите целое число.")
 
     filtered_vacancies = get_filtered_list(vacancies_list, filter_words)
 
