@@ -1,62 +1,42 @@
 [
     {
-        "name": "Back-end разработчик",
-        "company_name": "EVOS",
+        "name": "Python Backend Developer",
+        "company_name": "MUSAIT TECH",
         "area": "Ташкент",
-        "url": "https://hh.ru/vacancy/97867164",
-        "snippet_req": "Опыт работы на PHP от 2х лет ( 7.4, 8.1 ), C#, .NET, GitLab, SQL (Posgre). Опыт разработки API. ",
-        "salary_from": 15000000,
-        "salary_to": 20000000,
+        "url": "https://hh.ru/vacancy/99568214",
+        "snippet_req": "Опыт работы не менее 2 лет в разработке <highlighttext>Python</highlighttext>-приложений. Хорошее знания <highlighttext>Python</highlighttext>, FastAPI, Django. Опыт работы с REST API. ",
+        "salary_from": 9000000,
+        "salary_to": 11000000,
         "currency": "UZS"
     },
     {
-        "name": "PHP-разработчик / PHP (Symfony) developer",
-        "company_name": "Human Capital",
+        "name": "Senior Python Developer",
+        "company_name": "Buyer",
         "area": "Москва",
-        "url": "https://hh.ru/vacancy/94544761",
-        "snippet_req": "профилирование и оптимизирования запросов. Опыт работы с RESTful API. Docker, GIT. Будет плюсом: хотя бы базовые знания JAVA, <highlighttext>Python</highlighttext>; понимание...",
-        "salary_from": 250000,
-        "salary_to": 300000,
-        "currency": "RUR"
-    },
-    {
-        "name": "Программист-разработчик Python",
-        "company_name": "Джакупова",
-        "area": "Алматы",
-        "url": "https://hh.ru/vacancy/98725487",
-        "snippet_req": "Изучение и понимание основных концепций ИИ, а также соответствующие языки программирования и инструменты. Программирование: <highlighttext>Python</highlighttext>. Опыт с git (контроль версий...",
-        "salary_from": 200000,
-        "salary_to": 400000,
-        "currency": "KZT"
-    },
-    {
-        "name": "Senior QA инженер (SberJDK)",
-        "company_name": "СБЕР",
-        "area": "Санкт-Петербург",
-        "url": "https://hh.ru/vacancy/98852476",
-        "snippet_req": "Навыки поиска и оптимизации узких мест в тестовых процессах. Опыт работы с GitLab CI. <highlighttext>Python</highlighttext>. Опыт работы в Sun/Oracle. ",
-        "salary_from": 200000,
-        "salary_to": 450000,
-        "currency": "RUR"
-    },
-    {
-        "name": "Senior QA инженер (SberJDK)",
-        "company_name": "СБЕР",
-        "area": "Москва",
-        "url": "https://hh.ru/vacancy/98852475",
-        "snippet_req": "Навыки поиска и оптимизации узких мест в тестовых процессах. Опыт работы с GitLab CI. <highlighttext>Python</highlighttext>. Опыт работы в Sun/Oracle. ",
-        "salary_from": 200000,
-        "salary_to": 450000,
-        "currency": "RUR"
-    },
-    {
-        "name": "DevOps инженер",
-        "company_name": "DIJIT",
-        "area": "Москва",
-        "url": "https://hh.ru/vacancy/98019583",
-        "snippet_req": "Git. Kubernetes. Kustomize, Helm3. Ansible. Terraform. ArgoCD, Argo Workflow. PostgreSQL. VictoriaMetrics, Prometheus, ELK, Grafana. Внедрение инструментов CI/CD. ",
-        "salary_from": 200000,
+        "url": "https://hh.ru/vacancy/98157876",
+        "snippet_req": "Уверенное знание стека разработки на базе <highlighttext>Python</highlighttext>, Django, DRF, Celery, Nginx, Gunicorn, PostgreSQL, Redis. Умение самостоятельно находить эффективные решения задач. ",
+        "salary_from": 350000,
         "salary_to": 350000,
+        "currency": "RUR"
+    },
+    {
+        "name": "Python-разработчик",
+        "company_name": "Ритейл-Процессинг",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/98490852",
+        "snippet_req": "Хорошее знание <highlighttext>Python</highlighttext>, опыт промышленной разработки от 2 года. Опыт использования одного фреймворков - Django, Flask, FastAPI. Опыт асинхронной разработки, использования...",
+        "salary_from": 200000,
+        "salary_to": 220000,
+        "currency": "RUR"
+    },
+    {
+        "name": "Python developer (middle)",
+        "company_name": "Аптрейд",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/97928841",
+        "snippet_req": "Опыт Backend разработки от 3-х лет. Знания фреймворка Django. Знание SQL. Опыт работы с Celery. Хорошее знание docker. ",
+        "salary_from": 200000,
+        "salary_to": 300000,
         "currency": "RUR"
     },
     {
@@ -70,83 +50,53 @@
         "currency": "RUR"
     },
     {
-        "name": "Разработчик систем распознавания текста (OCR)",
-        "company_name": "Nirmax",
-        "area": "Москва",
-        "url": "https://hh.ru/vacancy/99483054",
-        "snippet_req": "Знание языков программирования <highlighttext>Python</highlighttext>, C++ или других релевантных языков. Опыт работы с системами управления версиями (например, Git). Отличный аналитический скилл. ",
-        "salary_from": 200000,
+        "name": "Middle Python разработчик (Django) в г.Краснодар",
+        "company_name": "МедРокет",
+        "area": "Краснодар",
+        "url": "https://hh.ru/vacancy/67115536",
+        "snippet_req": "Возможность напрямую влиять на продукт и принимать технические решения. Опыт разработки на <highlighttext>Python</highlighttext>3. Опыт работы с Django. ",
+        "salary_from": 160000,
         "salary_to": 240000,
         "currency": "RUR"
     },
     {
-        "name": "Разработчик Python",
-        "company_name": "DNS Технологии",
-        "area": "Владивосток",
-        "url": "https://hh.ru/vacancy/97174386",
-        "snippet_req": "Уверенное знание и опыт работы с SQLAlchemy. Опыт разработки веб-приложений на <highlighttext>Python</highlighttext>. Опыт работы с Git и хорошее понимание...",
-        "salary_from": 180000,
-        "salary_to": 240000,
-        "currency": "RUR"
-    },
-    {
-        "name": "Системный программист С++ (Windows)",
-        "company_name": "АВ Софт",
+        "name": "Fullstack Разработчик (Фронтенд и Бэкенд)",
+        "company_name": "CUSTOMER SOLUTIONS LTD",
         "area": "Москва",
-        "url": "https://hh.ru/vacancy/99173594",
-        "snippet_req": "Понимание принципов работы микросервисной архитектуры. Знакомство с Gitlab-ом и Gitlab CI. Знакомство с Boost. Знакомство с <highlighttext>Python</highlighttext>.",
+        "url": "https://hh.ru/vacancy/98657947",
+        "snippet_req": "...React.js/Vue.js/Angular), так и на бэкенде (Node.js (в приоритете)/<highlighttext>Python</highlighttext>, Express/Django/Rails). 3. Опыт работы с базами данных...",
         "salary_from": 150000,
         "salary_to": 250000,
         "currency": "RUR"
     },
     {
-        "name": "Python Developer | Backend (Pre-Middle/Middle)",
-        "company_name": "VICTORY group",
-        "area": "Екатеринбург",
-        "url": "https://hh.ru/vacancy/98318982",
-        "snippet_req": "Опыт работы в backend разработке на <highlighttext>Python</highlighttext> от 1 года. Знание Flask, FastAPI, PostgreSQL, Redis, Celery, Git, peewee / SQLAlchemy.",
+        "name": "Python Web-разработчик",
+        "company_name": "Селфсек",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/98444719",
+        "snippet_req": "Опыт коммерческой разработки от 2х лет. Знание ООП и паттернов проектирования. Уверенное владение одним из фрейморков (Django, Flask, aiohttp...",
+        "salary_from": 150000,
+        "salary_to": 200000,
+        "currency": "RUR"
+    },
+    {
+        "name": "Python разработчик Middle",
+        "company_name": "Верный Код",
+        "area": "Москва",
+        "url": "https://hh.ru/vacancy/98064344",
+        "snippet_req": "Владеет <highlighttext>Python</highlighttext>, pandas, airflow, Django (ORM, REST), Flask, Celery, ClickHouse, Postgres. Имеет опыт работы с базами данных PostgreSQL. ",
         "salary_from": 150000,
         "salary_to": 250000,
         "currency": "RUR"
     },
     {
-        "name": "Тестировщик / QA-engineer",
-        "company_name": "ОБИТ",
-        "area": "Санкт-Петербург",
-        "url": "https://hh.ru/vacancy/95297309",
-        "snippet_req": "Опыт работы с технологическим стеком (PostgreSQL, TestIT, <highlighttext>Python</highlighttext>, Selenium, PyTest, GitLab CI, Allure, Redmine). Опыт разработки авто-тестов более 2...",
-        "salary_from": 138000,
-        "salary_to": 161000,
-        "currency": "RUR"
-    },
-    {
-        "name": "Python-программист (Middle)/Python-разработчик",
-        "company_name": "Ритейл Эксперт",
+        "name": "Python разработчик",
+        "company_name": "aQsi",
         "area": "Москва",
-        "url": "https://hh.ru/vacancy/98802713",
-        "snippet_req": "Опыт разработки на FastAPI (1 год). Уверенное владение технологиями <highlighttext>Python</highlighttext> (FastAPI), AirFlow, PySpark, Docker, Git, MS SQL, PG. ",
-        "salary_from": 130000,
-        "salary_to": 150000,
-        "currency": "RUR"
-    },
-    {
-        "name": "Разработчик Python (Middle)",
-        "company_name": "Единая Информационная Система ЖКХ",
-        "area": "Санкт-Петербург",
-        "url": "https://hh.ru/vacancy/98619211",
-        "snippet_req": "Хорошие знания <highlighttext>Python</highlighttext> 3.6+, Django, DRF. Навык работы с Git. Умение разбираться в чужом коде. Опыт разработки в...",
-        "salary_from": 90000,
-        "salary_to": 150000,
-        "currency": "RUR"
-    },
-    {
-        "name": "Python-программист (Backend)",
-        "company_name": "ООО «Вин-Маркет»",
-        "area": "Нижний Новгород",
-        "url": "https://hh.ru/vacancy/98273601",
-        "snippet_req": "<highlighttext>Python</highlighttext>. PHP. HTML, CSS. JavaScript, jQuery. GIT. MySQL/MariaDB. Redis. REST, SOAP. Docker, Docker Compose. Node.js. Swagger. GraphQL. ",
-        "salary_from": 90000,
-        "salary_to": 120000,
+        "url": "https://hh.ru/vacancy/98263402",
+        "snippet_req": "Опыт разработки на <highlighttext>Python</highlighttext> от 3-х лет, опыт с Django обязателен. Понимание веб-стека, принципов REST и построения реляционных...",
+        "salary_from": 150000,
+        "salary_to": 200000,
         "currency": "RUR"
     }
 ]
