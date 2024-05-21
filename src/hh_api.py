@@ -7,7 +7,7 @@ class AbstractAPI(ABC):
         pass
 
     @abstractmethod
-    def get_vacancies(self, keyword):
+    def get_vacancies(self, keyword: str):
         pass
 
 
@@ -17,16 +17,16 @@ class HeadHunterAPI(AbstractAPI):
         self.url = 'https://api.hh.ru/vacancies'
         self.headers = {'User-Agent': 'HH-User-Agent'}
         self.params = {'text': '', 'page': 0, 'per_page': 100}
-        self.vacancies = []
 
-    def get_vacancies(self, keyword):
+    def get_vacancies(self, keyword: str):
         self.params['text'] = keyword
+        query_vacancies = []
         while self.params.get('page') != 20:
             response = requests.get(self.url, headers=self.headers, params=self.params)
             vacancies = response.json()['items']
-            self.vacancies.extend(vacancies)
+            query_vacancies.extend(vacancies)
             self.params['page'] += 1
-        return self.vacancies
+        return query_vacancies
 
 
 # Создание экземпляра класса для работы с API сайтов с вакансиями

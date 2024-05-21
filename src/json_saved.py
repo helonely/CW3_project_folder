@@ -4,7 +4,7 @@ from src.vacancy import Vacancy
 
 
 class AbstractJsonSave(ABC):
-    def init(self):
+    def __init__(self, file_path):
         pass
 
     @abstractmethod
@@ -18,10 +18,10 @@ class AbstractJsonSave(ABC):
 
 class JSONSaver(AbstractJsonSave):
     def __init__(self, file_path):
-        super().init()
+        super().__init__(file_path)
         self.filename = file_path
 
-    def save_to_file(self, vacancies):
+    def save_to_file(self, vacancies: list):
         # Преобразуем каждый объект Vacancy в словарь
         vacancy_dict = [vars(vacancy) for vacancy in vacancies]
         with open(self.filename, 'w', encoding='utf-8') as f:
